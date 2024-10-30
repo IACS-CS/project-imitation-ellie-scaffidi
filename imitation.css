@@ -1,1 +1,11 @@
 /* CSS for your imitation here */
+main{
+width: 492px;
+    height: 370px;
+    position: relative;
+}
+
+main,
+div {
+  border: 1px solid blue;
+}
