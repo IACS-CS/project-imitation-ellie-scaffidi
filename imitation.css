@@ -1,17 +1,103 @@
 /* CSS for your imitation here */
 main{
-width: 492px;
-    height: 370px;
-    position: relative;
-}
-
-main,
-div {
-  border: 1px solid blue;
+  width: 10in;
+  height: 7in;
+  position: relative;
+  background-color: #25358C;
 }
 
 .title{
-  color: green;
-  width: 492px;
-  height: 
+  color: #5BD686;
+  width: 10in;
+  height: 130px;
+  text-align: center;
+  font-family: 'Permanent Marker';
+  font-size: 100px;
+}
+
+.subtitle{
+  color: #CFD2E1;
+  font-family: 'BenchNine';
+  font-size: 35px;
+  text-align: center;
+  word-spacing: 10px;
+  letter-spacing: 5px;
+  padding-bottom: 20px;
+}
+
+.info-block {
+  padding-top: 20px;
+  width: 500px;
+  text-align: center;
+  color: #F5FFFE;
+  font-size: 20px;
+  font-family: Tahoma, Verdana, sans-serif;
+  letter-spacing: 3px;
+}
+
+.date{
+  color: #81FAAB;
+  font-size: 60px;
+  letter-spacng: 1px;
+    font-family: 'Archivo Black';
+  font-weight: bold;
+}
+
+.time{
+  color: #FAFAF8;
+  font-weight: normal;
+  font-family: 'Arimo';
+}
+
+.channel{
+  color: #EBFCFF;
+   font-family: 'Wire One';
+  font-size: 22px;
+  padding-bottom: 20px;
+}
+
+.slogan{
+  color: #97DCC9;
+  padding-left: 110px;
+  padding-right: 110px;
+  font-size: 15px;
+}
+
+footer {
+  display: flex;
+  position: absolute;
+  width: 3in;
+  bottom: 0;
+  right: 0;
+  color: white;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.purpose {
+  width: 2.5in;
+  height: 50px;
+  font-size: 15px;
+  text-align: center;
+  padding-top:10px;
+   color: #F5FFFE;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+
+.logo {
+  width: 0.5in;
+}
+
+.bottom {
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+
+
+
+
+main,
+div {
+  border: 1px solid red;
 }
