@@ -65,7 +65,7 @@ main{
 .image{
   display: flex;
   position: absolute;
-  width: 4in;
+  width: 6in;
   bottom: 0;
   right: 0;
 }
