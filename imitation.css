@@ -88,21 +88,22 @@ footer {
   text-align: center;
   padding-top:10px;
    color: #F5FFFE;
-  font-family: Tahoma, Verdana, sans-serif;
 }
 
 .logo {
   width: 0.5in;
+  font-family: 'Big Shoulders Display';
+  font-size: 17px;
+  letter-spacing: 2px;
 }
 
 .bottom {
   width: 100%;
   display: flex;
   position: relative;
+  font-family: Tahoma, Verdana, sans-serif;
+  font-size: 15px;
 }
-
-
-
 
 main,
 div {
