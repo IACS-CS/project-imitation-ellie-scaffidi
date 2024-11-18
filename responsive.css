@@ -39,6 +39,14 @@ main{
   padding-bottom: 10px;
 }
 
+.image{
+   position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100px;
+  height: 350px;
+}
+
 .purpose{
 
   font-size: 17px;
