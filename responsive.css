@@ -107,10 +107,8 @@ footer{
 }
 
 .image{
-  height: 300px;
-  position: absolute;
-  right: 0;
-  bottom:0;
+  height: 400px;
+  width: 480px;
 }
 
 .logo{
@@ -164,8 +162,8 @@ main{
 }
 
 .image{
-  height: 400px;
-  width: 400px;
+  height: 530px;
+  width: 740px;
 }
 
 footer{
@@ -274,11 +272,6 @@ footer {
   display: flex;
   position: relative;
   font-family: Tahoma, Verdana, sans-serif;
-}
-
-main,
-div {
-  border: 1px solid red;
 }
 
 
