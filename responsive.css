@@ -39,13 +39,6 @@ main{
   padding-bottom: 10px;
 }
 
-.image{
-   position: fixed;
-  bottom: 0;
-  right: 0;
-  width: 100px;
-  height: 350px;
-}
 
 .purpose{
 
@@ -55,6 +48,11 @@ main{
 .logo{
   font-size: 17px;
   width: 0.5in;
+}
+
+.image{
+  height: 310px;
+  width: 450px;
 }
 
 footer{
@@ -108,6 +106,13 @@ footer{
   font-size: 15px;
 }
 
+.image{
+  height: 300px;
+  position: absolute;
+  right: 0;
+  bottom:0;
+}
+
 .logo{
   width: 0.5in;
   font-size: 17px;
@@ -156,6 +161,11 @@ main{
 .channel{
   font-size: 27px;
   padding-bottom: 20px;
+}
+
+.image{
+  height: 400px;
+  width: 400px;
 }
 
 footer{
@@ -232,7 +242,6 @@ main{
 .image{
   display: flex;
   position: absolute;
-  width: 6in;
   bottom: 0;
   right: 0;
 }
